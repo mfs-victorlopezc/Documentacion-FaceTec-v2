@@ -34,8 +34,8 @@
       </ul>
    </li>
     <li><a href="#facetec-response-documentation">Facetec Response Documentation</a></li>
+    <li><a href="#sequence-diagram">Sequence Diagram</a></li>
     <li><a href="#contact">Contact</a></li>
-        <li><a href="#sequence-diagram">Sequence Diagram</a></li>
   </ol>
 </details>
 
@@ -264,17 +264,6 @@ This document explains the structure of the response object returned by the Face
 
 ![Image](https://github.com/mfs-victorlopezc/Documentacion-FaceTec-v2/blob/main/response-data.png)
 
-<!-- CONTACT -->
-## Contact
-
-For further explanation and suggestions to this file or the implementation 
-feel free to reach.
-
-Engineering Lead - Mario Meza - mario.meza@millicom.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## Sequence diagram
 
 Currently you can see our sequence Diagram to map briefly the interactions for this implementation.
@@ -288,3 +277,13 @@ Server SDK--x Client SDK: OCR response
 Server SDK-x Logs Server: Send Logs
 Note right of Logs Server: Sending of logs happens eventually<br> and is asynchronous to server operation
 ```
+
+<!-- CONTACT -->
+## Contact
+
+For further explanation and suggestions to this file or the implementation 
+feel free to reach.
+
+Engineering Lead - Mario Meza - mario.meza@millicom.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
