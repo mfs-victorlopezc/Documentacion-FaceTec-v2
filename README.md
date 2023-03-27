@@ -91,4 +91,4 @@ This document explains the structure of the response object returned by the Face
 
 #####  Facetec's answer in JSON format: A detailed look at biometric identification
 
-![Image](https://github.com/mfs-victorlopezc/Documentacion-FaceTec/blob/main/response-data.png)
+![Image](https://github.com/mfs-victorlopezc/Documentacion-FaceTec-v2/blob/main/response-data.png)
